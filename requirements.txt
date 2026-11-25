@@ -1,0 +1,17 @@
+langchain
+langchain-google-genai
+dotenv
+langchain-openai
+langchain-anthropic
+streamlit
+pydantic
+typing
+langchain-ollama
+langchain-groq
+langchain-community
+langgraph
+pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
+langchain-chroma
